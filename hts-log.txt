@@ -1,0 +1,13 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 29 Mar 2023 13:00:27 at https://fasademesteren.webnode.page/
+(winhttrack https://fasademesteren.webnode.page/ -O "./fasade1" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:00:30	Warning: 	Moved Permanently for https://fasademesteren.webnode.page/home/
+13:00:30	Warning: 	File has moved from https://fasademesteren.webnode.page/home/ to https://fasademesteren.webnode.page/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 5 links scanned, 3 files written (130412 bytes overall) [83437 bytes received at 27812 bytes/sec], 130537 bytes transferred using HTTP compression in 4 files, ratio 31%, 1.6 requests per connection
+(No errors, 2 warnings, 0 messages)
